@@ -1,0 +1,10 @@
+Membre du projet : 
+
+* Yanis BOUZELHA
+  - A Fait :  Le versioning, Le Trie, La réponse Partielle, le système de Logs, les filtres
+
+* Yanis BOUMRAH
+  - A Fait :  La pagination, l'authentification, le doc SwaggerUI
+
+* Yanis DJEBARI 
+  - A Fait :  La recherche et le projet de tests unitaires.

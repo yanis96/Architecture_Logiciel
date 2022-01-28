@@ -1,0 +1,13 @@
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\bin\Debug\netcoreapp3.1\Archi.Lib.deps.json
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\bin\Debug\netcoreapp3.1\Archi.Lib.dll
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\bin\Debug\netcoreapp3.1\Archi.Lib.pdb
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\obj\Debug\netcoreapp3.1\Archi.Lib.csproj.AssemblyReference.cache
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\obj\Debug\netcoreapp3.1\Archi.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\obj\Debug\netcoreapp3.1\Archi.Lib.AssemblyInfoInputs.cache
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\obj\Debug\netcoreapp3.1\Archi.Lib.AssemblyInfo.cs
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\obj\Debug\netcoreapp3.1\Archi.Lib.csproj.CoreCompileInputs.cache
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\obj\Debug\netcoreapp3.1\Archi.Lib.dll
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\obj\Debug\netcoreapp3.1\Archi.Lib.pdb
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\bin\Debug\netcoreapp3.1\Archi.Lib.runtimeconfig.json
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\bin\Debug\netcoreapp3.1\Archi.Lib.runtimeconfig.dev.json
+C:\Users\bouze\Downloads\Master 1\Architecture Logiciel\projets\PROJET2\Archi_DB_Projet\Archi.Lib\obj\Debug\netcoreapp3.1\Archi.Lib.genruntimeconfig.cache
